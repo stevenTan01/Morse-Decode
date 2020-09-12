@@ -1,4 +1,6 @@
 # Morse-Decode
+## Game Link
+https://drive.google.com/file/d/1ikX0-w857Bh_6hKZzW8H9el0TjLdU2BM/view?usp=sharing
 ## About
 Designed for the visually impaired, Morse Decode is a single-player Morse code puzzle game aimed at improving one's reaction time, memory, and pattern recognition skills. The game is playable with all ranges of visual impairments including but not limited to complete blindness, macular degeneration, and glaucoma.
 ## Gameplay
